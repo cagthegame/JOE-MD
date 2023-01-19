@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/525591478197*
+*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 𝙴𝚂 wa.me/14404447468*
 
 *—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 𝟷 𝙴𝚂 wa.me/5215591478197*
 
@@ -15,7 +15,7 @@ let text = `
 let buttonMessage= {
 'document': { url: `https://github.com/cagthegame/KANTU-BOT` },
 'mimetype': `application/${document}`,
-'fileName': `「  𝐊𝐀𝐍𝐓𝐔 - 𝐁𝐎𝐓 」`,
+'fileName': `「  ╚»༒J̷O̷E̷༒«╝ 」`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
